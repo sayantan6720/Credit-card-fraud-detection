@@ -8,16 +8,16 @@ This project explores and analyzes anonymized credit card transaction data to de
 
 Credit card fraud detection poses unique challenges due to the heavily imbalanced nature of the data. This notebook focuses on:
 
+---
+
+## 🧰 Tools & Libraries Used
+
+
 - Exploratory Data Analysis (EDA)
 - Feature scaling and normalization
 - Handling class imbalance with **SMOTE**, **Random Undersampling**, and **SMOTEENN**
 - Train-test split and stratification
 - Laying the groundwork for machine learning classification
-
----
-
-## 🧰 Tools & Libraries Used
-
 ### 📚 Data Manipulation & Visualization
 - **Pandas**
 - **NumPy**
@@ -65,13 +65,6 @@ While this notebook primarily focuses on data exploration and preprocessing, nex
 ## 📂 Dataset
 
 This project uses the [Credit Card Fraud Detection dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle, which contains anonymized transactions by European cardholders in 2013.
-
----
-
-## 👨‍💻 Author
-
-**Sayantan Datta**  
-[GitHub](https://github.com/sayantan6720) | [LinkedIn](https://www.linkedin.com/in/sayantan-datta/)
 
 ---
 
